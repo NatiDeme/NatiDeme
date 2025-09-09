@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Natnael Demelash
-Full Stack Web Developer and UI/UX Designer with 4+ years of experience in designing and implementing scalable, user-centric web applications. Skilled in JavaScript, React, Node.js, and cloud technologies. Proven ability to lead projects, enhance user experiences, and deliver impactful solutions in the climate, mobility, and health sectors
+Full Stack Web Developer and UI/UX Designer with 4+ years of experience in designing and implementing scalable, user-centric web applications. Skilled in JavaScript, React, Node.js, and cloud technologies. Proven ability to lead projects, enhance user experiences, and deliver impactful solutions.
 - 📫 How to reach me: demelashnatnael@gmail.com
 <!--
 **NatiDeme/NatiDeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
