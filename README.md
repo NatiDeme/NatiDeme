@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I'm Natnael Demelash
-I am a `full-stack web developer` with bachelors degree in Software Engineering. I am passionate about what I do and love the challenges I face everyday!
-<!-- - 🌱 I’m currently learning at an online program called Microverse with the aim to upscale my technical and soft skills. -->
-<!-- - 👯 I’m currently available for hire!! -->
+Full Stack Web Developer and UI/UX Designer with 4+ years of experience in designing and implementing scalable, user-centric web applications. Skilled in JavaScript, React, Node.js, and cloud technologies. Proven ability to lead projects, enhance user experiences, and deliver impactful solutions in the climate, mobility, and health sectors
 - 📫 How to reach me: demelashnatnael@gmail.com
 <!--
 **NatiDeme/NatiDeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
